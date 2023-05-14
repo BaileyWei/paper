@@ -1,3 +1,0 @@
-*.tsv
-!.gitignore
-!douban_book_review/*
